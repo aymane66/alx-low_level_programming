@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S file.c -o file.o
+echo "gcc -S file.c -o file.o"
