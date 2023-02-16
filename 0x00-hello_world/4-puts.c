@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * Main - This is a program that displays a sentence without using printf
  * Return 0
 */
